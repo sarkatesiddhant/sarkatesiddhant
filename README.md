@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**sarkatesiddhant/sarkatesiddhant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there
 - 🔭 I’m currently working on Embedded Systems
 - 🌱 I’m currently learning VLSI, Embedded Systems
 - 👯 I’m looking to collaborate on C, C++, Hardware Projects
@@ -14,4 +8,3 @@ Here are some ideas to get you started:
 sarkatesiddhant@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
--->
