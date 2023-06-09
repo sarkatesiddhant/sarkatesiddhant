@@ -4,7 +4,8 @@
 - 👯 I’m looking to collaborate on C, C++, Hardware Projects
 - 🤔 I’m looking for help with Logic building while Programming
 - 💬 Ask me about ...
-- 📫 How to reach me: https://www.linkedin.com/in/sarkatesiddhant
-sarkatesiddhant@gmail.com
+- 📫 How to reach me: 
+-   https://www.linkedin.com/in/sarkatesiddhant
+-   sarkatesiddhant@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
